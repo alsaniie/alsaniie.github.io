@@ -1229,7 +1229,7 @@ form .button-area {
   padding: 50px 20px; /* Add padding to top and bottom */
   margin: 0 auto; /* Center the section horizontally */
   max-width: 1200px; /* Limit the width for readability */
-  background-color: #051407; /* Optional: Light background color */
+  background-color: #ed32ce; /* Optional: Light background color */
   border-radius: 8px; /* Optional: Rounded corners */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Optional: Subtle shadow */
 }
